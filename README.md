@@ -20,6 +20,8 @@
 
 4. En local (no debes trabajar en el remoto) y siempre desde git Bash añade el fichero README.md con estas instrucciones y sus pantallazos.
 
+![alt](c4.png)
 
+5. Sincroniza tus cambios con el repositorio remoto (git push)
 
-5. Sincroniza tus cambios con el repositorio remoto (git push)1. 
+![alt](c5.png)
